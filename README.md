@@ -1,6 +1,6 @@
 # Flutter Overview
 
-![Flutter Logo](https://www.bing.com/images/search?view=detailV2&ccid=EsvxRPV1&id=DCC89F83AFB744AAB0309DCE6155265835E2A0E6&thid=OIP.EsvxRPV1zyOf9yaxjoinHQHaDp&mediaurl=https%3a%2f%2f1.bp.blogspot.com%2f-BtHUrzxko38%2fYOIOjlqEXvI%2fAAAAAAAADYs%2ftf3VQ4L5YXEo-8RX7u7ju_LC_1goEgDgACLcBGAsYHQ%2fw1200-h630-p-k-no-nu%2fflutter-logo-sharing.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.12cbf144f575cf239ff726b18e88a71d%3frik%3d5qDiNVgmVWHOnQ%26pid%3dImgRaw%26r%3d0&exph=461&expw=937&q=flutter+logo+link&simid=608032851322493250&FORM=IRPRST&ck=82AA82DE7DA98063DC9F60DED7C0AFEE&selectedIndex=7&qpvt=flutter+logo+link&ajaxhist=0&ajaxserp=0)
+![Flutter Logo](https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png)
 
 Welcome to the Flutter Overview repository! This repository provides a comprehensive introduction to Flutter, a UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 
